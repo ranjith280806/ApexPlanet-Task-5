@@ -44,7 +44,6 @@ In Task 4, I combined the findings from the previous tasks into a data-driven st
 
 ## Final Presentation
 
-
 The final presentation summarizes the major findings, analysis, statistical validation, and key insights developed throughout the internship.
 
 📊 **Final Presentation:** Available in this repository.
