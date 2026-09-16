@@ -39,18 +39,31 @@ testing with statistical validation.
 
 🔗 [View Task 4 Repository](PASTE-TASK-4-LINK-HERE)
 
-## Skills Demonstrated
+## Technical Skills Demonstrated
 
 - Python
 - Pandas
 - SQL
-- Data Cleaning
-- Exploratory Data Analysis
+- Data Cleaning & Data Preprocessing
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis
 - Hypothesis Testing
-- Dashboarding
+- KPI Analysis
+- Interactive Dashboarding
 - Data Storytelling
+- Business Intelligence
+
+## Key Learnings
+
+- Gained practical experience in cleaning and preparing real-world datasets.
+- Learned to perform exploratory data analysis to identify patterns, trends, and relationships.
+- Strengthened SQL skills by solving business-oriented data questions.
+- Learned to define and analyze meaningful Key Performance Indicators (KPIs).
+- Gained experience in developing interactive dashboards for data-driven insights.
+- Applied statistical hypothesis testing to validate analytical findings.
+- Improved my ability to communicate data insights through professional storytelling and presentations.
+- Understood the end-to-end data analytics workflow from raw data to business insights.
 
 ## Key Learnings
 
